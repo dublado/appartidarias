@@ -32,7 +32,7 @@ Criar virtualenv (use ``virtualenvwrapper``): ::
 
 Install requirements via ``pip``: ::
 
-    pip install django/requirements/development.txt
+    pip install -r django/requirements/development.txt
 
 
 Criar tabelas do banco de dados: ::
